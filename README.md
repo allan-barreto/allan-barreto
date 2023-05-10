@@ -27,11 +27,11 @@ Here are some ideas to get you started:
 
   <h3>Who I am:</h3>
   <ul>
-  <li> 💻 Developer Junior, in career transition.
-  <li> 🌎 Actually living in São Paulo, Brasil.
+  <li> 💻 Junior Developer, in career transition.
+  <li> 🌎 Living in São Paulo, Brasil.
   <li> 🛠️ I like the frontend stack, but backend and cloud computing is where I belong.
-  <li> 🔭 Science enthusiast. I love to understand how all the things works.
-  <li> 🎲 My hobbies includes: Videogames, movies, boardgames and music.
+  <li> 🔭 Science enthusiast. I love to understand how all things work.
+  <li> 🎲 My hobbies include: Videogames, movies, boardgames and music.
   </ul>
   
   <h3>You can find me here:</h3>
@@ -69,7 +69,7 @@ Here are some ideas to get you started:
 ---
   
   <div> 
-    <h3>🌱 Technologies and tools that I am improving my knowledge:</h3>
+    <h3>🌱 Technologies and tools that I am working on:</h3>
     
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"  width="60" height="60"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg"  width="60" height="60"/>
