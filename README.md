@@ -29,7 +29,7 @@ Here are some ideas to get you started:
   <ul>
   <li> 💻 Junior Developer, in career transition.
   <li> 🌎 Living in São Paulo, Brasil.
-  <li> 🛠️ I like the frontend stack, but backend and cloud computing is where I belong.
+  <li> 🛠️ I like to work with DevOps and Cloud Services.
   <li> 🔭 Science enthusiast. I love to understand how all things work.
   <li> 🎲 My hobbies include: Videogames, movies, boardgames and music.
   </ul>
