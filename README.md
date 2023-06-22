@@ -92,6 +92,7 @@ Here are some ideas to get you started:
 <a href="https://github.com/allan-barreto">
 <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=allan-barreto&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
 <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=allan-barreto&layout=compact&langs_count=7&theme=chartreuse-dark"/>
+          
 </div>
 
 ---
