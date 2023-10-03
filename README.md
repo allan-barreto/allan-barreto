@@ -27,9 +27,9 @@ Here are some ideas to get you started:
 
   <h3>Who I am:</h3>
   <ul>
-  <li> 💻 Junior Developer, in career transition.
+  <li> 💻 Cloud Engineer Jr.
   <li> 🌎 Living in São Paulo, Brasil.
-  <li> 🛠️ I like to work with DevOps and Cloud Services.
+  <li> 🛠️ Adept of DevOps Culture.
   <li> 🔭 Science enthusiast. I love to understand how all things work.
   <li> 🎲 My hobbies include: Videogames, movies, boardgames and music.
   </ul>
