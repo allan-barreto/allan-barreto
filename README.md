@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
   <h3>Who I am:</h3>
   <ul>
-  <li> 💻 Cloud Engineer Jr.
+  <li> 💻 Cloud Engineer
   <li> 🌎 Living in São Paulo, Brasil.
   <li> 🛠️ Adept of DevOps Culture.
   <li> 🔭 Science enthusiast. I love to understand how all things work.
